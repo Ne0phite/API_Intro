@@ -1,0 +1,41 @@
+body {
+  background: #ee9ca7;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.mydiv {
+ width: 360px;
+ margin: 150px auto;
+ background: #f7f7f7;
+ box-shadow: 0 0 3px rbga(0, 0, 0, 0.2);
+ background: #ee9ca7;  /* fallback for old browsers */
+ background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+ background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1 {
+  margin-left: 40px;
+}
+
+p {
+  color: #993F6C;
+  position: fixed;
+  top: 40px;
+  left: 41%;
+  font-size: 40px;
+  font-family: palatino;
+}
+
+.mybutton {
+  background: #993F6C;
+  width: 50%;
+  height: 40px;
+  font-family: palatino;
+  font-size: 20px;
+  margin-left: 90px;
+  outline: none;
+  margin-bottom: 3px;
+  border-radius: 5px;
+}
